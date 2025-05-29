@@ -1,4 +1,4 @@
-# This is the readme.html for the model associated with the paper
+# This is the README.md for the model associated with the paper
 
 Courtemanche M, Ramirez RJ, Nattel S.
 Ionic mechanisms underlying human atrial action potential
@@ -11,7 +11,7 @@ The mechanisms underlying many important properties of the human atrial action p
 
 As the beat of stimulus was 50 at a cycle lingth of 1000 ms, the simulation will make graph
 
-![ham_ap.jpg](HAM_AP.jpg)
+![ham_ap.jpg](ham_ap.jpg)
 
 similar to the result in the model of NEURON by Ingemar Jacobson.
 
